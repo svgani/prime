@@ -8,8 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git remote add origin https://github.com/svgani/prime.git"
+    "url": "https://github.com/svgani/prime.git"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Gani Prabhakar",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.1-security"
+  }
 }
